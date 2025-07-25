@@ -159,5 +159,26 @@
     "password": "$2a$10$7H1c4svY/8YrtiOMstMOm.GfAWYj467vGXwuvPPfpUXFPpik/d6zi",
     "age": 14,
     "createdAt": "2025-07-25T10:52:15.546Z"
+  },
+  {
+    "id": 1753441764661,
+    "email": "22@mail.ru",
+    "password": "$2a$10$A6C3VE1y8qcO9rmvXm8vfOBRYM6WbRvdjd54ns0dKvPjoZygGrscm",
+    "age": 13,
+    "createdAt": "2025-07-25T11:09:24.661Z"
+  },
+  {
+    "id": 1753442242293,
+    "email": "55@mail.ru",
+    "password": "$2a$10$WD7sQXLjUh6a0JyPFIkj3OyYzBe6Dzsix19JZdfmbCzlNWbxcaXU2",
+    "age": 13,
+    "createdAt": "2025-07-25T11:17:22.293Z"
+  },
+  {
+    "id": 1753442531931,
+    "email": "66@mail.ru",
+    "password": "$2a$10$8Fcyu9BJiXRVEWJqkDddAu.xs.POILCaOa7W1my6HRv3wrlfhADdu",
+    "age": 13,
+    "createdAt": "2025-07-25T11:22:11.931Z"
   }
 ]
