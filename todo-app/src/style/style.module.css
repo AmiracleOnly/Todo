@@ -1,0 +1,32 @@
+
+
+.TodoListWrapper {
+    margin-top: 20px;
+}
+
+
+
+.Loading{
+    font-size: 16px;
+    color: #007bff;
+    text-align: center;
+}
+
+.Error {
+    font-size: 16px;
+    color: #dc3545;
+    text-align: center;
+}
+
+
+.listTodo{
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 16px;
+}
+
+.ControlWrapepr{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 16px;
+}

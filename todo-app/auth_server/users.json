@@ -1,0 +1,163 @@
+[
+  {
+    "id": 1748677662262,
+    "email": "email@mail.ru",
+    "password": "$2a$10$hsmy0vq.BMlhmliHEK.Jbe5BxzNI6VLgXSs6MVO9WqX.luTaZo8e.",
+    "age": 31,
+    "createdAt": "2025-05-31T07:47:42.262Z"
+  },
+  {
+    "id": 1748677704443,
+    "email": "ivan___@mail.ru",
+    "password": "$2a$10$4gn8Y9l1/BKd/sSxcbYzQ.AhV1FQc0MReXRPfWg4bQA5Thrk5zgr.",
+    "age": null,
+    "createdAt": "2025-05-31T07:48:24.443Z"
+  },
+  {
+    "id": 1748679520653,
+    "email": "iva__@mail.ru",
+    "password": "$2a$10$ki1iGA2ubPCSaEEFxBoyFOAwjCGXgQFLYR/gfzSjBRnJsBGjkIFC2",
+    "age": 31,
+    "createdAt": "2025-05-31T08:18:40.653Z"
+  },
+  {
+    "id": 1748690741991,
+    "email": "3@mail.ru",
+    "password": "$2a$10$bocKyWwZTQwr5OzOXFj4T.1Lk5isRXxUnbk/EulYDXUzxumjXufdq",
+    "age": 3,
+    "createdAt": "2025-05-31T11:25:41.991Z"
+  },
+  {
+    "id": 1748691800649,
+    "email": "4@mail.ru",
+    "password": "$2a$10$QCLov2ar.p.kAUWi0sH94.jcW3iPmriiT4OvzxTfC/oBWu3DZB7Da",
+    "age": 4,
+    "createdAt": "2025-05-31T11:43:20.649Z"
+  },
+  {
+    "id": 1748794760183,
+    "email": "5@mail.ru",
+    "password": "$2a$10$YD3ilZ2adeWljhB3PR.1IuHDmnlSH1YxumzGCtYiq7JiMrnrjmEB2",
+    "age": 5,
+    "createdAt": "2025-06-01T16:19:20.183Z"
+  },
+  {
+    "id": 1748862039284,
+    "email": "6@mail.ru",
+    "password": "$2a$10$QOo0wQgFbDGJ0dhjDkfPwuZ20TdPyu2q/4zgQuk93Ls1Yyfmv0ORG",
+    "age": 16,
+    "createdAt": "2025-06-02T11:00:39.284Z"
+  },
+  {
+    "id": 1748864183659,
+    "email": "7@mail.ru",
+    "password": "$2a$10$kCC5il.05vAxbhSKzgAi9..1oAVxdJvFgQs8vEh72WOIyn1WrLYFu",
+    "age": 16,
+    "createdAt": "2025-06-02T11:36:23.659Z"
+  },
+  {
+    "id": 1748978344695,
+    "email": "8@mail.ru",
+    "password": "$2a$10$RMB9.3hf3pJr3GZrA.ZAROHPTWwhE8Jf8YNsHs2tcQYQnMJ7rHCKC",
+    "age": 13,
+    "createdAt": "2025-06-03T19:19:04.695Z"
+  },
+  {
+    "id": 1748981453271,
+    "email": "FVFVFVF@MAIL.RU",
+    "password": "$2a$10$L12sT9BC4AmLb1RwlKT7v.7xlvYWXdlbQsYnXkVwACy8dCiQ6lzNS",
+    "age": 13,
+    "createdAt": "2025-06-03T20:10:53.271Z"
+  },
+  {
+    "id": 1749207881791,
+    "email": "10@mail.ru",
+    "password": "$2a$10$QVhiot02e9EhJuiWhfx6ju4Kxh2goLiJ9B6HjOhmy5nE9ccmoAIRq",
+    "age": 16,
+    "createdAt": "2025-06-06T11:04:41.791Z"
+  },
+  {
+    "id": 1749209089950,
+    "email": "ivan__@mail.ru",
+    "password": "$2a$10$aJ8UrBrfon7B6wjK6p.Nn.g/2WJw7nzbs7894QfQO0AhmSNCjmiuy",
+    "age": 13,
+    "createdAt": "2025-06-06T11:24:49.950Z"
+  },
+  {
+    "id": 1749224921831,
+    "email": "pussy_killer999@mail.ru",
+    "password": "$2a$10$AKYULmCTKy31jI4s4CGW.exdYELl74lWGq88mD59MJLOeyWghjFMi",
+    "age": 16,
+    "createdAt": "2025-06-06T15:48:41.831Z"
+  },
+  {
+    "id": 1749498751472,
+    "email": "1@mail.ru",
+    "password": "$2a$10$hkR5qvTo2L0jyP20ZiGyTew6SsQTehXdFFTJdRpicU2m5qW7KHWf6",
+    "age": 18,
+    "createdAt": "2025-06-09T19:52:31.472Z"
+  },
+  {
+    "id": 1749547439130,
+    "email": "2@mail.ru",
+    "password": "$2a$10$XoX8tbQkUuBOGD5/R.0Z6.NmUSVki./dvEVqxTTcu.KctaJPrnE8O",
+    "age": 16,
+    "createdAt": "2025-06-10T09:23:59.130Z"
+  },
+  {
+    "id": 1749548610171,
+    "email": "12@mail",
+    "password": "$2a$10$r0n2BH4bQbVddQql9FvsV.fAWu3yoVoHezB4nzRW.OiCO9vkzgrcq",
+    "age": 13,
+    "createdAt": "2025-06-10T09:43:30.171Z"
+  },
+  {
+    "id": 1749548678597,
+    "email": "mail@mail",
+    "password": "$2a$10$2bUWp3XUwZVWds1pXYg.ve7Epr/O.0.UenMEd1xeT/Y2aXYToOU1i",
+    "age": 99,
+    "createdAt": "2025-06-10T09:44:38.597Z"
+  },
+  {
+    "id": 1749571983922,
+    "email": "maksat@mail.ru",
+    "password": "$2a$10$H0cczTJ2C9pekAQDvEq4.ecdz/y2KJuVSXkkrVfaUx3L79CldN.Fa",
+    "age": 16,
+    "createdAt": "2025-06-10T16:13:03.923Z"
+  },
+  {
+    "id": 1749715267391,
+    "email": "12@mail.ru",
+    "password": "$2a$10$6Gk1Bd3sSkZZ/Se3v7Mza.6OROYd3u8Vy7UWhjM59Dmg.dz70WIAS",
+    "age": 16,
+    "createdAt": "2025-06-12T08:01:07.391Z"
+  },
+  {
+    "id": 1749716841870,
+    "email": "100@mail.ru",
+    "password": "$2a$10$gLTYDizqsMo4Q2io1hfjS.i4D1WSrD5cXfFGcFWvZnf/SVFAtAvPu",
+    "age": 100,
+    "createdAt": "2025-06-12T08:27:21.870Z"
+  },
+  {
+    "id": 1749750701366,
+    "email": "111@mail.ru",
+    "password": "$2a$10$oKVDXmwtShzckOdRYOqQIeQ2Gr1RNp9dlGThi7RdYN4KXsAKmzca.",
+    "age": 111,
+    "createdAt": "2025-06-12T17:51:41.366Z"
+  },
+  {
+    "id": 1750670278186,
+    "email": "test@test",
+    "password": "$2a$10$203bquW5jMFVn1dPyLD9yOb03b6XXGHvz.RDaUtztb1yxY/hbIrrm",
+    "age": 16,
+    "createdAt": "2025-06-23T09:17:58.186Z"
+  },
+  {
+    "id": 1753440735546,
+    "email": "11@mail.ru",
+    "password": "$2a$10$7H1c4svY/8YrtiOMstMOm.GfAWYj467vGXwuvPPfpUXFPpik/d6zi",
+    "age": 14,
+    "createdAt": "2025-07-25T10:52:15.546Z"
+  }
+]
